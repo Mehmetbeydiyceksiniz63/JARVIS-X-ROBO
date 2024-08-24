@@ -16,7 +16,7 @@ VIDEO_URL = "https://graph.org/file/7172ef7cb509772c7284d.mp4"
 Jarvis = [
     [
         InlineKeyboardButton(text="SAHİBİ", user_id=OWNER_ID),
-        InlineKeyboardButton(text="DESTEK", url=f"https://t.me/JARVIS_V_SUPPORT"),
+        InlineKeyboardButton(text="DESTEK", url=f"https://t.me/kumsalmuzikk"),
     ],
     [
         InlineKeyboardButton(
