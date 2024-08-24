@@ -86,10 +86,10 @@ PM_START_TEXT = """
 *merhaba* {}  
 
 *๏ ben* {} !
-➻ grubunuzda size yardım etmek için tasarlandım.
+grubunuzda size yardım etmek için tasarlandım.
 ─────────────────
-   *➻ kullanıcı»* {}
-   *➻ grup »* {}
+   * kullanıcı»* {}
+   * grup »* {}
 ─────────────────
 *๏ yardım almak için yardım komutuna tıkla.*
 """
@@ -109,7 +109,7 @@ buttons = [
         InlineKeyboardButton(text="✨ destek grubu ✨", url=f"https://t.me/kumsalmuzikk"),
     ],
    [
-        InlineKeyboardButton(text="🥀 sahibi 🥀", url=f"Mehmett_bey_diyeceksiniz"),
+        InlineKeyboardButton(text="🥀 sahibi 🥀", url=f"https://t.me/Mehmett_bey_diyeceksiniz"),
         InlineKeyboardButton(text="☁️ kaynak kod ☁️", callback_data="source_"),
     ],
 ]
