@@ -109,7 +109,7 @@ buttons = [
         InlineKeyboardButton(text="✨ destek grubu ✨", url=f"https://t.me/kumsalmuzikk"),
     ],
    [
-        InlineKeyboardButton(text="🥀 sahibi 🥀", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="🥀 sahibi 🥀", url=f"Mehmett_bey_diyeceksiniz"),
         InlineKeyboardButton(text="☁️ kaynak kod ☁️", callback_data="source_"),
     ],
 ]
